@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Drecollins1
 - 👀 I’m interested in ...learning Coding 
-- 🌱 I’m currently learning ...Html and Css
+- 🌱 I’m currently learning ...Html and Css and JavaScript 
 - 💞️ I’m looking to collaborate on ...don't know yet
 - 📫 How to reach me ...adarecollins@gmail.com
 
