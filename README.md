@@ -1,7 +1,7 @@
-- 👋 Hi, I’m @Drecollins1
-- 👀 I’m interested in ...learning Coding 
+- 👋 Hi, I’m Akingbade Damilare Moses
+- 👀 I am a Software Engineering student at ALX. I learn by doing....
 - 🌱 I’m currently learning ...Html and Css and JavaScript 
-- 💞️ I’m looking to collaborate on ...don't know yet
+- 💞️ 🔭 I’m currently working on my coding skills.
 - 📫 How to reach me ...adarecollins@gmail.com
 
 <!---
