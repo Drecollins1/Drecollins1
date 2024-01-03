@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Akingbade Damilare Moses
 - 👀 I am a Software Engineering student at ALX. I learn by doing....
-- 🌱 I’m currently learning ...Html and Css and JavaScript 
+- 🌱 I’m currently learning ...Html Css and JavaScript. i have an intermediate knowledge on PHP and MYSQL
 - 💞️ 🔭 I’m currently working on my coding skills.
 - 📫 How to reach me ...adarecollins@gmail.com
 
